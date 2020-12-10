@@ -1,4 +1,3 @@
-Gender,Married,Education,Self_Employed,ApplicantIncome,LoanAmount,Loan_Amount_Term,Property_Area,Loan_Status
 Male,No,Graduate,No,5849,,360,Urban,Y
 Male,Yes,Graduate,No,4583,128,360,Rural,N
 Male,Yes,Graduate,Yes,3000,66,360,Urban,Y
