@@ -1,0 +1,614 @@
+LP001002,No,Graduate,No,Urban
+LP001003,Yes,Graduate,No,Rural
+LP001005,Yes,Graduate,Yes,Urban
+LP001006,Yes,Not Graduate,No,Urban
+LP001008,No,Graduate,No,Urban
+LP001011,Yes,Graduate,Yes,Urban
+LP001013,Yes,Not Graduate,No,Urban
+LP001014,Yes,Graduate,No,Semiurban
+LP001018,Yes,Graduate,No,Urban
+LP001020,Yes,Graduate,No,Semiurban
+LP001024,Yes,Graduate,No,Urban
+LP001027,Yes,Graduate,No,Urban
+LP001028,Yes,Graduate,No,Urban
+LP001029,No,Graduate,No,Rural
+LP001030,Yes,Graduate,No,Urban
+LP001032,No,Graduate,No,Urban
+LP001034,No,Not Graduate,No,Urban
+LP001036,No,Graduate,No,Urban
+LP001038,Yes,Not Graduate,No,Rural
+LP001041,Yes,Graduate,No,Urban
+LP001043,Yes,Not Graduate,No,Urban
+LP001046,Yes,Graduate,No,Urban
+LP001047,Yes,Not Graduate,No,Semiurban
+LP001050,Yes,Not Graduate,No,Rural
+LP001052,Yes,Graduate,No,Semiurban
+LP001066,Yes,Graduate,Yes,Semiurban
+LP001068,Yes,Graduate,No,Semiurban
+LP001073,Yes,Not Graduate,No,Urban
+LP001086,No,Not Graduate,No,Urban
+LP001087,No,Graduate,No,Semiurban
+LP001091,Yes,Graduate,No,Urban
+LP001095,No,Graduate,No,Urban
+LP001097,No,Graduate,Yes,Rural
+LP001098,Yes,Graduate,No,Semiurban
+LP001100,No,Graduate,No,Rural
+LP001106,Yes,Graduate,No,Urban
+LP001109,Yes,Graduate,No,Urban
+LP001112,Yes,Graduate,No,Semiurban
+LP001114,No,Graduate,No,Urban
+LP001116,No,Not Graduate,No,Semiurban
+LP001119,No,Graduate,No,Urban
+LP001120,No,Graduate,No,Urban
+LP001123,Yes,Graduate,No,Urban
+LP001131,Yes,Graduate,No,Semiurban
+LP001136,Yes,Not Graduate,Yes,Urban
+LP001137,No,Graduate,No,Urban
+LP001138,Yes,Graduate,No,Urban
+LP001144,Yes,Graduate,No,Urban
+LP001146,Yes,Graduate,No,Urban
+LP001151,No,Graduate,No,Semiurban
+LP001155,Yes,Not Graduate,No,Semiurban
+LP001157,No,Graduate,No,Semiurban
+LP001164,No,Graduate,No,Semiurban
+LP001179,Yes,Graduate,No,Urban
+LP001186,Yes,Graduate,Yes,Urban
+LP001194,Yes,Graduate,No,Semiurban
+LP001195,Yes,Graduate,No,Semiurban
+LP001197,Yes,Graduate,No,Rural
+LP001198,Yes,Graduate,No,Urban
+LP001199,Yes,Not Graduate,No,Urban
+LP001205,Yes,Graduate,No,Urban
+LP001206,Yes,Graduate,No,Urban
+LP001207,Yes,Not Graduate,Yes,Rural
+LP001213,Yes,Graduate,No,Rural
+LP001222,No,Graduate,No,Semiurban
+LP001225,Yes,Graduate,No,Semiurban
+LP001228,No,Not Graduate,No,Urban
+LP001233,Yes,Graduate,No,Urban
+LP001238,Yes,Not Graduate,Yes,Urban
+LP001241,No,Graduate,No,Semiurban
+LP001243,Yes,Graduate,No,Urban
+LP001245,Yes,Not Graduate,Yes,Semiurban
+LP001248,No,Graduate,No,Semiurban
+LP001250,Yes,Not Graduate,No,Semiurban
+LP001253,Yes,Graduate,Yes,Semiurban
+LP001255,No,Graduate,No,Urban
+LP001256,No,Graduate,No,Urban
+LP001259,Yes,Graduate,Yes,Urban
+LP001263,Yes,Graduate,No,Semiurban
+LP001264,Yes,Not Graduate,Yes,Semiurban
+LP001265,No,Graduate,No,Semiurban
+LP001266,Yes,Graduate,Yes,Semiurban
+LP001267,Yes,Graduate,No,Urban
+LP001273,Yes,Graduate,No,Semiurban
+LP001275,Yes,Graduate,No,Urban
+LP001279,No,Graduate,No,Semiurban
+LP001280,Yes,Not Graduate,No,Semiurban
+LP001282,Yes,Graduate,No,Semiurban
+LP001289,No,Graduate,No,Urban
+LP001310,Yes,Graduate,No,Semiurban
+LP001316,Yes,Graduate,No,Semiurban
+LP001318,Yes,Graduate,No,Semiurban
+LP001319,Yes,Not Graduate,No,Urban
+LP001322,No,Graduate,No,Semiurban
+LP001325,No,Not Graduate,No,Semiurban
+LP001326,No,Graduate,No,Urban
+LP001327,Yes,Graduate,No,Semiurban
+LP001333,Yes,Graduate,No,Semiurban
+LP001334,Yes,Not Graduate,No,Semiurban
+LP001343,Yes,Graduate,No,Semiurban
+LP001345,Yes,Not Graduate,No,Urban
+LP001349,No,Graduate,No,Semiurban
+LP001350,Yes,Graduate,No,Urban
+LP001356,Yes,Graduate,No,Semiurban
+LP001357,,Graduate,No,Urban
+LP001367,Yes,Graduate,No,Urban
+LP001369,Yes,Graduate,No,Urban
+LP001370,No,Not Graduate,Yes,Rural
+LP001379,Yes,Graduate,No,Urban
+LP001384,Yes,Not Graduate,No,Semiurban
+LP001385,No,Graduate,No,Urban
+LP001387,Yes,Graduate,No,Semiurban
+LP001391,Yes,Not Graduate,No,Rural
+LP001392,No,Graduate,Yes,Semiurban
+LP001398,No,Graduate,No,Semiurban
+LP001401,Yes,Graduate,No,Rural
+LP001404,Yes,Graduate,No,Semiurban
+LP001405,Yes,Graduate,No,Urban
+LP001421,Yes,Graduate,No,Rural
+LP001422,No,Graduate,No,Urban
+LP001426,Yes,Graduate,No,Rural
+LP001430,No,Graduate,No,Semiurban
+LP001431,No,Graduate,No,Semiurban
+LP001432,Yes,Graduate,No,Semiurban
+LP001439,Yes,Not Graduate,No,Rural
+LP001443,No,Graduate,No,Rural
+LP001448,Yes,Graduate,No,Rural
+LP001449,No,Graduate,No,Rural
+LP001451,Yes,Graduate,Yes,Urban
+LP001465,Yes,Graduate,No,Rural
+LP001469,No,Graduate,Yes,Urban
+LP001473,No,Graduate,No,Urban
+LP001478,No,Graduate,No,Semiurban
+LP001482,Yes,Graduate,Yes,Semiurban
+LP001487,No,Graduate,No,Semiurban
+LP001488,Yes,Graduate,No,Semiurban
+LP001489,Yes,Graduate,No,Rural
+LP001491,Yes,Graduate,Yes,Urban
+LP001492,No,Graduate,No,Semiurban
+LP001493,Yes,Not Graduate,No,Rural
+LP001497,Yes,Graduate,No,Rural
+LP001498,No,Graduate,No,Urban
+LP001504,No,Graduate,Yes,Semiurban
+LP001507,Yes,Graduate,No,Semiurban
+LP001508,Yes,Graduate,No,Urban
+LP001514,Yes,Graduate,No,Semiurban
+LP001516,Yes,Graduate,No,Urban
+LP001518,Yes,Graduate,No,Urban
+LP001519,No,Graduate,No,Rural
+LP001520,Yes,Graduate,No,Semiurban
+LP001528,No,Graduate,No,Rural
+LP001529,Yes,Graduate,Yes,Rural
+LP001531,No,Graduate,No,Urban
+LP001532,Yes,Not Graduate,No,Rural
+LP001535,No,Graduate,No,Urban
+LP001536,Yes,Graduate,No,Semiurban
+LP001541,Yes,Graduate,No,Rural
+LP001543,Yes,Graduate,No,Urban
+LP001546,No,Graduate,No,Rural
+LP001552,Yes,Graduate,No,Semiurban
+LP001560,Yes,Not Graduate,No,Semiurban
+LP001562,Yes,Graduate,No,Urban
+LP001565,Yes,Graduate,No,Semiurban
+LP001570,Yes,Graduate,No,Rural
+LP001572,Yes,Graduate,No,Urban
+LP001574,Yes,Graduate,No,Rural
+LP001577,Yes,Graduate,No,Rural
+LP001578,Yes,Graduate,No,Rural
+LP001579,No,Graduate,No,Semiurban
+LP001580,Yes,Graduate,No,Semiurban
+LP001581,Yes,Not Graduate,Yes,Rural
+LP001585,Yes,Graduate,No,Urban
+LP001586,Yes,Not Graduate,No,Rural
+LP001594,Yes,Graduate,No,Semiurban
+LP001603,Yes,Not Graduate,Yes,Semiurban
+LP001606,Yes,Graduate,No,Rural
+LP001608,Yes,Graduate,No,Rural
+LP001610,Yes,Graduate,No,Semiurban
+LP001616,Yes,Graduate,No,Semiurban
+LP001630,No,Not Graduate,No,Urban
+LP001633,Yes,Graduate,No,Urban
+LP001634,No,Graduate,No,Rural
+LP001636,Yes,Graduate,No,Semiurban
+LP001637,Yes,Graduate,No,Semiurban
+LP001639,Yes,Graduate,No,Semiurban
+LP001640,Yes,Graduate,Yes,Semiurban
+LP001641,Yes,Graduate,Yes,Rural
+LP001643,Yes,Graduate,No,Rural
+LP001644,Yes,Graduate,Yes,Rural
+LP001647,Yes,Graduate,No,Rural
+LP001653,No,Not Graduate,No,Rural
+LP001656,No,Graduate,No,Semiurban
+LP001657,Yes,Not Graduate,No,Urban
+LP001658,No,Graduate,No,Semiurban
+LP001664,No,Graduate,No,Rural
+LP001665,Yes,Graduate,No,Semiurban
+LP001666,No,Graduate,No,Rural
+LP001669,No,Not Graduate,No,Urban
+LP001671,Yes,Graduate,No,Semiurban
+LP001673,No,Graduate,Yes,Urban
+LP001674,Yes,Not Graduate,No,Semiurban
+LP001677,No,Graduate,No,Semiurban
+LP001682,Yes,Not Graduate,No,Urban
+LP001688,Yes,Not Graduate,No,Urban
+LP001691,Yes,Not Graduate,No,Semiurban
+LP001692,No,Not Graduate,No,Semiurban
+LP001693,No,Graduate,No,Urban
+LP001698,No,Not Graduate,No,Rural
+LP001699,No,Graduate,No,Urban
+LP001702,No,Graduate,No,Semiurban
+LP001708,No,Graduate,No,Semiurban
+LP001711,Yes,Graduate,No,Semiurban
+LP001713,Yes,Graduate,Yes,Urban
+LP001715,Yes,Not Graduate,Yes,Rural
+LP001716,Yes,Graduate,No,Urban
+LP001720,Yes,Not Graduate,No,Semiurban
+LP001722,Yes,Graduate,No,Rural
+LP001726,Yes,Graduate,No,Semiurban
+LP001732,Yes,Graduate,No,Semiurban
+LP001734,Yes,Graduate,No,Semiurban
+LP001736,Yes,Graduate,No,Urban
+LP001743,Yes,Graduate,No,Semiurban
+LP001744,No,Graduate,No,Semiurban
+LP001749,Yes,Graduate,No,Semiurban
+LP001750,Yes,Graduate,No,Semiurban
+LP001751,Yes,Graduate,No,Rural
+LP001754,Yes,Not Graduate,Yes,Urban
+LP001758,Yes,Graduate,No,Semiurban
+LP001760,,Graduate,No,Semiurban
+LP001761,No,Graduate,Yes,Rural
+LP001765,Yes,Graduate,No,Semiurban
+LP001768,Yes,Graduate,No,Rural
+LP001770,No,Not Graduate,No,Rural
+LP001776,No,Graduate,No,Semiurban
+LP001778,Yes,Graduate,No,Semiurban
+LP001784,Yes,Graduate,No,Rural
+LP001786,Yes,Graduate,No,Urban
+LP001788,No,Graduate,Yes,Urban
+LP001790,No,Graduate,No,Rural
+LP001792,Yes,Graduate,No,Semiurban
+LP001798,Yes,Graduate,No,Rural
+LP001800,Yes,Not Graduate,No,Urban
+LP001806,No,Graduate,No,Urban
+LP001807,Yes,Graduate,Yes,Rural
+LP001811,Yes,Not Graduate,No,Semiurban
+LP001813,No,Graduate,Yes,Urban
+LP001814,Yes,Graduate,No,Urban
+LP001819,Yes,Not Graduate,No,Urban
+LP001824,Yes,Graduate,No,Semiurban
+LP001825,Yes,Graduate,No,Urban
+LP001835,Yes,Not Graduate,No,Semiurban
+LP001836,No,Graduate,No,Urban
+LP001841,No,Not Graduate,Yes,Rural
+LP001843,Yes,Not Graduate,No,Semiurban
+LP001844,No,Graduate,Yes,Urban
+LP001846,No,Graduate,No,Rural
+LP001849,No,Not Graduate,No,Rural
+LP001854,Yes,Graduate,No,Urban
+LP001859,Yes,Graduate,No,Rural
+LP001864,Yes,Not Graduate,No,Semiurban
+LP001865,Yes,Graduate,No,Urban
+LP001868,No,Graduate,No,Semiurban
+LP001870,No,Graduate,No,Semiurban
+LP001871,No,Graduate,No,Rural
+LP001872,No,Graduate,Yes,Semiurban
+LP001875,No,Graduate,No,Rural
+LP001877,Yes,Graduate,No,Semiurban
+LP001882,Yes,Graduate,No,Urban
+LP001883,No,Graduate,No,Rural
+LP001884,No,Graduate,No,Urban
+LP001888,No,Graduate,No,Urban
+LP001891,Yes,Graduate,No,Urban
+LP001892,No,Graduate,No,Rural
+LP001894,Yes,Graduate,No,Semiurban
+LP001896,Yes,Graduate,No,Semiurban
+LP001900,Yes,Graduate,No,Semiurban
+LP001903,Yes,Graduate,No,Semiurban
+LP001904,Yes,Graduate,No,Urban
+LP001907,Yes,Graduate,No,Semiurban
+LP001908,Yes,Not Graduate,No,Rural
+LP001910,No,Not Graduate,Yes,Urban
+LP001914,Yes,Graduate,No,Semiurban
+LP001915,Yes,Graduate,No,Urban
+LP001917,No,Graduate,No,Urban
+LP001922,Yes,Graduate,No,Rural
+LP001924,No,Graduate,No,Rural
+LP001925,No,Graduate,Yes,Semiurban
+LP001926,Yes,Graduate,No,Rural
+LP001931,No,Graduate,No,Semiurban
+LP001935,No,Graduate,No,Rural
+LP001936,Yes,Graduate,No,Rural
+LP001938,Yes,Graduate,No,Semiurban
+LP001940,Yes,Graduate,No,Urban
+LP001945,No,Graduate,No,Urban
+LP001947,Yes,Graduate,No,Semiurban
+LP001949,Yes,Graduate,Yes,Urban
+LP001953,Yes,Graduate,No,Semiurban
+LP001954,Yes,Graduate,No,Urban
+LP001955,No,Graduate,No,Rural
+LP001963,Yes,Graduate,No,Urban
+LP001964,Yes,Not Graduate,No,Urban
+LP001972,Yes,Not Graduate,No,Semiurban
+LP001974,No,Graduate,No,Rural
+LP001977,Yes,Graduate,No,Urban
+LP001978,No,Graduate,No,Rural
+LP001990,No,Not Graduate,No,Urban
+LP001993,No,Graduate,No,Rural
+LP001994,No,Graduate,No,Urban
+LP001996,No,Graduate,No,Rural
+LP001998,Yes,Not Graduate,No,Rural
+LP002002,No,Graduate,No,Semiurban
+LP002004,No,Not Graduate,No,Semiurban
+LP002006,No,Graduate,No,Rural
+LP002008,Yes,Graduate,Yes,Rural
+LP002024,Yes,Graduate,No,Rural
+LP002031,Yes,Not Graduate,No,Urban
+LP002035,Yes,Graduate,No,Semiurban
+LP002036,Yes,Graduate,No,Urban
+LP002043,No,Graduate,No,Semiurban
+LP002050,Yes,Graduate,Yes,Rural
+LP002051,Yes,Graduate,No,Semiurban
+LP002053,Yes,Graduate,No,Semiurban
+LP002054,Yes,Not Graduate,No,Rural
+LP002055,No,Graduate,No,Rural
+LP002065,Yes,Graduate,No,Rural
+LP002067,Yes,Graduate,Yes,Rural
+LP002068,No,Graduate,No,Rural
+LP002082,Yes,Graduate,Yes,Semiurban
+LP002086,Yes,Graduate,No,Urban
+LP002087,No,Graduate,No,Urban
+LP002097,No,Graduate,No,Urban
+LP002098,No,Graduate,No,Semiurban
+LP002100,No,Graduate,No,Urban
+LP002101,Yes,Graduate,No,Urban
+LP002103,Yes,Graduate,Yes,Urban
+LP002106,Yes,Graduate,Yes,Semiurban
+LP002110,Yes,Graduate,No,Rural
+LP002112,Yes,Graduate,Yes,Rural
+LP002113,No,Not Graduate,No,Urban
+LP002114,No,Graduate,No,Semiurban
+LP002115,Yes,Not Graduate,No,Rural
+LP002116,No,Graduate,No,Rural
+LP002119,Yes,Not Graduate,No,Urban
+LP002126,Yes,Not Graduate,No,Semiurban
+LP002128,Yes,Graduate,No,Rural
+LP002129,Yes,Graduate,No,Semiurban
+LP002130,Yes,Not Graduate,No,Rural
+LP002131,Yes,Not Graduate,No,Urban
+LP002137,Yes,Graduate,No,Semiurban
+LP002138,Yes,Graduate,No,Rural
+LP002139,Yes,Graduate,No,Semiurban
+LP002140,No,Graduate,No,Rural
+LP002141,Yes,Graduate,No,Rural
+LP002142,Yes,Graduate,Yes,Rural
+LP002143,Yes,Graduate,No,Semiurban
+LP002144,No,Graduate,No,Urban
+LP002149,Yes,Graduate,No,Rural
+LP002151,Yes,Graduate,No,Urban
+LP002158,Yes,Not Graduate,No,Urban
+LP002160,Yes,Graduate,No,Semiurban
+LP002161,No,Graduate,No,Semiurban
+LP002170,Yes,Graduate,No,Semiurban
+LP002175,Yes,Graduate,No,Urban
+LP002178,Yes,Graduate,No,Urban
+LP002180,No,Graduate,Yes,Rural
+LP002181,No,Not Graduate,No,Rural
+LP002187,No,Graduate,No,Semiurban
+LP002188,No,Graduate,No,Rural
+LP002190,Yes,Graduate,No,Semiurban
+LP002191,Yes,Graduate,No,Rural
+LP002194,No,Graduate,Yes,Semiurban
+LP002197,Yes,Graduate,No,Semiurban
+LP002201,Yes,Graduate,Yes,Rural
+LP002205,No,Graduate,No,Urban
+LP002209,No,Graduate,Yes,Urban
+LP002211,Yes,Graduate,No,Urban
+LP002219,Yes,Graduate,No,Rural
+LP002223,Yes,Graduate,No,Semiurban
+LP002224,No,Graduate,No,Urban
+LP002225,Yes,Graduate,No,Urban
+LP002226,Yes,Graduate,No,Semiurban
+LP002229,No,Graduate,No,Semiurban
+LP002231,No,Graduate,No,Urban
+LP002234,No,Graduate,Yes,Urban
+LP002236,Yes,Graduate,No,Urban
+LP002237,No,Graduate,Yes,Urban
+LP002239,No,Not Graduate,No,Semiurban
+LP002243,Yes,Not Graduate,No,Urban
+LP002244,Yes,Graduate,No,Urban
+LP002250,Yes,Graduate,No,Rural
+LP002255,No,Graduate,No,Rural
+LP002262,Yes,Graduate,No,Rural
+LP002263,Yes,Graduate,No,Urban
+LP002265,Yes,Not Graduate,No,Semiurban
+LP002266,Yes,Graduate,No,Urban
+LP002272,Yes,Graduate,No,Semiurban
+LP002277,No,Graduate,No,Urban
+LP002281,Yes,Graduate,No,Urban
+LP002284,No,Not Graduate,No,Rural
+LP002287,No,Graduate,No,Semiurban
+LP002288,Yes,Not Graduate,No,Urban
+LP002296,No,Not Graduate,No,Rural
+LP002297,No,Graduate,No,Semiurban
+LP002300,No,Not Graduate,No,Semiurban
+LP002301,No,Graduate,Yes,Rural
+LP002305,No,Graduate,No,Semiurban
+LP002308,Yes,Not Graduate,No,Urban
+LP002314,No,Not Graduate,No,Rural
+LP002315,Yes,Graduate,No,Semiurban
+LP002317,Yes,Graduate,No,Rural
+LP002318,No,Not Graduate,Yes,Semiurban
+LP002319,Yes,Graduate,No,Urban
+LP002328,Yes,Not Graduate,No,Rural
+LP002332,Yes,Not Graduate,No,Rural
+LP002335,Yes,Not Graduate,No,Semiurban
+LP002337,No,Graduate,No,Urban
+LP002341,No,Graduate,No,Urban
+LP002342,Yes,Graduate,Yes,Urban
+LP002345,Yes,Graduate,No,Rural
+LP002347,Yes,Graduate,No,Semiurban
+LP002348,Yes,Graduate,No,Rural
+LP002357,No,Not Graduate,No,Urban
+LP002361,Yes,Graduate,No,Urban
+LP002362,Yes,Graduate,No,Urban
+LP002364,Yes,Graduate,No,Semiurban
+LP002366,Yes,Graduate,No,Rural
+LP002367,No,Not Graduate,No,Rural
+LP002368,Yes,Graduate,No,Semiurban
+LP002369,Yes,Graduate,No,Rural
+LP002370,No,Not Graduate,No,Urban
+LP002377,No,Graduate,Yes,Semiurban
+LP002379,No,Graduate,No,Rural
+LP002386,No,Graduate,No,Semiurban
+LP002387,Yes,Graduate,No,Semiurban
+LP002390,No,Graduate,No,Urban
+LP002393,,Graduate,No,Semiurban
+LP002398,No,Graduate,No,Semiurban
+LP002401,Yes,Graduate,No,Urban
+LP002403,No,Graduate,Yes,Urban
+LP002407,Yes,Not Graduate,Yes,Rural
+LP002408,No,Graduate,No,Semiurban
+LP002409,Yes,Graduate,No,Rural
+LP002418,No,Not Graduate,No,Semiurban
+LP002422,No,Graduate,No,Semiurban
+LP002424,Yes,Graduate,No,Rural
+LP002429,Yes,Graduate,Yes,Rural
+LP002434,Yes,Not Graduate,No,Rural
+LP002435,Yes,Graduate,No,Rural
+LP002443,Yes,Graduate,No,Rural
+LP002444,No,Not Graduate,Yes,Semiurban
+LP002446,Yes,Not Graduate,No,Rural
+LP002447,Yes,Not Graduate,No,Urban
+LP002448,Yes,Graduate,No,Rural
+LP002449,Yes,Graduate,No,Rural
+LP002453,No,Graduate,Yes,Semiurban
+LP002455,Yes,Graduate,No,Semiurban
+LP002459,Yes,Graduate,No,Urban
+LP002467,Yes,Graduate,No,Urban
+LP002472,No,Graduate,No,Rural
+LP002473,Yes,Graduate,No,Semiurban
+LP002478,Yes,Graduate,Yes,Semiurban
+LP002484,Yes,Graduate,No,Urban
+LP002487,Yes,Graduate,No,Rural
+LP002489,No,Not Graduate,No,Semiurban
+LP002493,No,Graduate,No,Semiurban
+LP002494,No,Graduate,No,Rural
+LP002500,Yes,Not Graduate,No,Urban
+LP002501,Yes,Graduate,No,Semiurban
+LP002502,Yes,Not Graduate,Yes,Semiurban
+LP002505,Yes,Graduate,No,Urban
+LP002515,Yes,Graduate,Yes,Semiurban
+LP002517,Yes,Not Graduate,No,Rural
+LP002519,Yes,Graduate,No,Semiurban
+LP002522,No,Graduate,Yes,Urban
+LP002524,No,Graduate,No,Rural
+LP002527,Yes,Graduate,Yes,Rural
+LP002529,Yes,Graduate,No,Semiurban
+LP002530,Yes,Graduate,No,Semiurban
+LP002531,Yes,Graduate,Yes,Semiurban
+LP002533,Yes,Graduate,No,Urban
+LP002534,No,Not Graduate,No,Rural
+LP002536,Yes,Not Graduate,No,Rural
+LP002537,Yes,Graduate,No,Semiurban
+LP002541,Yes,Graduate,No,Semiurban
+LP002543,Yes,Graduate,No,Semiurban
+LP002544,Yes,Not Graduate,No,Rural
+LP002545,No,Graduate,No,Rural
+LP002547,Yes,Graduate,No,Urban
+LP002555,Yes,Graduate,Yes,Semiurban
+LP002556,No,Graduate,No,Urban
+LP002560,No,Not Graduate,No,Semiurban
+LP002562,Yes,Not Graduate,No,Urban
+LP002571,No,Not Graduate,No,Rural
+LP002582,No,Not Graduate,Yes,Semiurban
+LP002585,Yes,Graduate,No,Rural
+LP002586,Yes,Graduate,No,Semiurban
+LP002587,Yes,Not Graduate,No,Rural
+LP002588,Yes,Graduate,No,Urban
+LP002600,Yes,Graduate,Yes,Semiurban
+LP002602,No,Graduate,No,Rural
+LP002603,No,Graduate,No,Rural
+LP002606,No,Graduate,No,Semiurban
+LP002615,Yes,Graduate,No,Semiurban
+LP002618,Yes,Not Graduate,No,Rural
+LP002619,Yes,Not Graduate,No,Semiurban
+LP002622,Yes,Graduate,No,Rural
+LP002624,Yes,Graduate,No,Urban
+LP002625,No,Graduate,No,Urban
+LP002626,Yes,Graduate,Yes,Urban
+LP002634,No,Graduate,No,Urban
+LP002637,No,Not Graduate,No,Rural
+LP002640,Yes,Graduate,No,Semiurban
+LP002643,Yes,Graduate,No,Urban
+LP002648,Yes,Graduate,No,Semiurban
+LP002652,No,Graduate,No,Rural
+LP002659,Yes,Graduate,No,Rural
+LP002670,Yes,Graduate,No,Semiurban
+LP002682,Yes,Not Graduate,No,Semiurban
+LP002683,No,Graduate,No,Semiurban
+LP002684,No,Not Graduate,No,Rural
+LP002689,Yes,Not Graduate,No,Semiurban
+LP002690,No,Graduate,No,Semiurban
+LP002692,Yes,Graduate,Yes,Rural
+LP002693,Yes,Graduate,Yes,Rural
+LP002697,No,Graduate,No,Semiurban
+LP002699,Yes,Graduate,Yes,Rural
+LP002705,Yes,Graduate,No,Semiurban
+LP002706,Yes,Not Graduate,No,Semiurban
+LP002714,No,Not Graduate,No,Semiurban
+LP002716,No,Not Graduate,No,Semiurban
+LP002717,Yes,Graduate,No,Rural
+LP002720,Yes,Graduate,No,Urban
+LP002723,No,Graduate,No,Rural
+LP002729,No,Graduate,No,Semiurban
+LP002731,No,Not Graduate,Yes,Urban
+LP002732,No,Not Graduate,Yes,Rural
+LP002734,Yes,Graduate,No,Urban
+LP002738,No,Graduate,No,Semiurban
+LP002739,Yes,Not Graduate,No,Rural
+LP002740,Yes,Graduate,No,Rural
+LP002741,Yes,Graduate,No,Semiurban
+LP002743,No,Graduate,No,Semiurban
+LP002753,No,Graduate,No,Semiurban
+LP002755,Yes,Not Graduate,No,Urban
+LP002757,Yes,Not Graduate,No,Semiurban
+LP002767,Yes,Graduate,No,Rural
+LP002768,No,Not Graduate,No,Semiurban
+LP002772,No,Graduate,No,Rural
+LP002776,No,Graduate,No,Semiurban
+LP002777,Yes,Graduate,No,Rural
+LP002778,Yes,Graduate,Yes,Rural
+LP002784,Yes,Not Graduate,No,Rural
+LP002785,Yes,Graduate,No,Urban
+LP002788,Yes,Not Graduate,No,Urban
+LP002789,Yes,Graduate,No,Rural
+LP002792,Yes,Graduate,No,Semiurban
+LP002794,No,Graduate,No,Urban
+LP002795,Yes,Graduate,Yes,Semiurban
+LP002798,Yes,Graduate,No,Semiurban
+LP002804,Yes,Graduate,No,Semiurban
+LP002807,Yes,Not Graduate,No,Semiurban
+LP002813,Yes,Graduate,Yes,Semiurban
+LP002820,Yes,Graduate,No,Rural
+LP002821,No,Not Graduate,Yes,Semiurban
+LP002832,Yes,Graduate,No,Urban
+LP002833,Yes,Not Graduate,No,Rural
+LP002836,No,Graduate,No,Urban
+LP002837,Yes,Graduate,No,Rural
+LP002840,No,Graduate,No,Urban
+LP002841,Yes,Graduate,No,Urban
+LP002842,Yes,Graduate,No,Urban
+LP002847,Yes,Graduate,No,Urban
+LP002855,Yes,Graduate,No,Urban
+LP002862,Yes,Not Graduate,No,Semiurban
+LP002863,Yes,Graduate,No,Semiurban
+LP002868,Yes,Graduate,No,Urban
+LP002872,Yes,Graduate,No,Semiurban
+LP002874,No,Graduate,No,Urban
+LP002877,Yes,Graduate,No,Rural
+LP002888,No,Graduate,Yes,Urban
+LP002892,Yes,Graduate,No,Semiurban
+LP002893,No,Graduate,No,Urban
+LP002894,Yes,Graduate,No,Semiurban
+LP002898,Yes,Graduate,No,Rural
+LP002911,Yes,Graduate,No,Rural
+LP002912,Yes,Graduate,No,Rural
+LP002916,Yes,Graduate,No,Urban
+LP002917,No,Not Graduate,No,Semiurban
+LP002925,No,Graduate,No,Semiurban
+LP002926,Yes,Graduate,Yes,Semiurban
+LP002928,Yes,Graduate,No,Semiurban
+LP002931,Yes,Graduate,Yes,Semiurban
+LP002933,No,Graduate,Yes,Semiurban
+LP002936,Yes,Graduate,No,Rural
+LP002938,Yes,Graduate,Yes,Urban
+LP002940,No,Not Graduate,No,Rural
+LP002941,Yes,Not Graduate,Yes,Rural
+LP002943,No,Graduate,No,Semiurban
+LP002945,Yes,Graduate,Yes,Rural
+LP002948,Yes,Graduate,No,Urban
+LP002949,No,Graduate,No,Urban
+LP002950,Yes,Not Graduate,No,Rural
+LP002953,Yes,Graduate,No,Urban
+LP002958,No,Graduate,No,Rural
+LP002959,Yes,Graduate,No,Semiurban
+LP002960,Yes,Not Graduate,No,Urban
+LP002961,Yes,Graduate,No,Semiurban
+LP002964,Yes,Not Graduate,No,Rural
+LP002974,Yes,Graduate,No,Rural
+LP002978,No,Graduate,No,Rural
+LP002979,Yes,Graduate,No,Rural
+LP002983,Yes,Graduate,No,Urban
+LP002984,Yes,Graduate,No,Urban
+LP002990,No,Graduate,Yes,Semiurban
