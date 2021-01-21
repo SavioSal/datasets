@@ -1,0 +1,337 @@
+Day,Start Time,Time Interval,Initial Waiting,Arrivals,Departures,End Waiting,Checkers,Total Customers
+Mon,8:00 AM,Morning rush,2,21,22,1,3,23
+Mon,8:30 AM,Morning rush,1,25,18,8,3,26
+Mon,9:00 AM,Morning,8,27,28,7,3,35
+Mon,9:30 AM,Morning,7,21,23,5,3,28
+Mon,10:00 AM,Morning,5,20,23,2,5,25
+Mon,10:30 AM,Morning,2,36,31,7,5,38
+Mon,11:00 AM,Morning,7,30,36,1,5,37
+Mon,11:30 AM,Lunch rush,1,34,29,6,5,35
+Mon,12:00 PM,Lunch rush,6,56,48,14,7,62
+Mon,12:30 PM,Lunch rush,14,58,64,8,7,72
+Mon,1:00 PM,Lunch rush,8,53,52,9,7,61
+Mon,1:30 PM,Afternoon,9,30,36,3,5,39
+Mon,2:00 PM,Afternoon,3,34,31,6,5,37
+Mon,2:30 PM,Afternoon,6,36,37,5,5,42
+Mon,3:00 PM,Afternoon,5,30,28,7,5,35
+Mon,3:30 PM,Afternoon,7,29,34,2,5,36
+Mon,4:00 PM,Afternoon,2,35,33,4,5,37
+Mon,4:30 PM,Afternoon rush,4,32,25,11,5,36
+Mon,5:00 PM,Afternoon rush,11,46,43,14,6,57
+Mon,5:30 PM,Afternoon rush,14,39,45,8,6,53
+Mon,6:00 PM,Afternoon rush,8,34,39,3,5,42
+Mon,6:30 PM,Evening,3,17,17,3,3,20
+Mon,7:00 PM,Evening,3,24,25,2,3,27
+Mon,7:30 PM,Evening,2,14,15,1,3,16
+Mon,8:00 PM,Evening,1,25,14,12,3,26
+Mon,8:30 PM,Evening,12,12,19,5,2,24
+Mon,9:00 PM,Evening,5,10,14,1,2,15
+Mon,9:30 PM,Evening,1,10,9,2,2,11
+Mon,10:00 PM,Evening,2,11,12,1,2,13
+Mon,10:30 PM,Evening,1,9,9,1,2,10
+Mon,11:00 PM,Night,1,7,7,1,2,8
+Mon,11:30 PM,Night,1,6,6,1,2,7
+Tue,12:00 AM,Night,1,14,12,3,2,15
+Tue,12:30 AM,Night,3,3,5,1,1,6
+Tue,1:00 AM,Night,1,2,2,1,1,3
+Tue,1:30 AM,Night,1,6,7,0,1,7
+Tue,2:00 AM,Night,0,3,3,0,1,3
+Tue,2:30 AM,Night,0,5,5,0,1,5
+Tue,3:00 AM,Night,0,3,1,2,1,3
+Tue,3:30 AM,Night,2,4,6,0,1,6
+Tue,4:00 AM,Night,0,4,4,0,1,4
+Tue,4:30 AM,Night,0,1,1,0,1,1
+Tue,5:00 AM,Night,0,6,5,1,1,6
+Tue,5:30 AM,Night,1,3,3,1,1,4
+Tue,6:00 AM,Morning rush,1,13,14,0,2,14
+Tue,6:30 AM,Morning rush,0,7,5,2,2,7
+Tue,7:00 AM,Morning rush,2,11,10,3,3,13
+Tue,7:30 AM,Morning rush,3,14,14,3,3,17
+Tue,8:00 AM,Morning rush,3,19,15,7,3,22
+Tue,8:30 AM,Morning rush,7,15,22,0,3,22
+Tue,9:00 AM,Morning,0,20,17,3,3,20
+Tue,9:30 AM,Morning,3,25,23,5,3,28
+Tue,10:00 AM,Morning,5,25,27,3,5,30
+Tue,10:30 AM,Morning,3,31,29,5,5,34
+Tue,11:00 AM,Morning,5,29,32,2,5,34
+Tue,11:30 AM,Lunch rush,2,29,28,3,5,31
+Tue,12:00 PM,Lunch rush,3,52,44,11,7,55
+Tue,12:30 PM,Lunch rush,11,48,53,6,7,59
+Tue,1:00 PM,Lunch rush,6,37,39,4,7,43
+Tue,1:30 PM,Afternoon,4,32,30,6,5,36
+Tue,2:00 PM,Afternoon,6,27,33,0,5,33
+Tue,2:30 PM,Afternoon,0,33,25,8,5,33
+Tue,3:00 PM,Afternoon,8,37,33,12,5,45
+Tue,3:30 PM,Afternoon,12,32,34,10,5,44
+Tue,4:00 PM,Afternoon,10,24,31,3,5,34
+Tue,4:30 PM,Afternoon rush,3,33,30,6,5,36
+Tue,5:00 PM,Afternoon rush,6,33,32,7,6,39
+Tue,5:30 PM,Afternoon rush,7,27,25,9,6,34
+Tue,6:00 PM,Afternoon rush,9,28,33,4,5,37
+Tue,6:30 PM,Evening,4,22,23,3,3,26
+Tue,7:00 PM,Evening,3,24,15,12,3,27
+Tue,7:30 PM,Evening,12,16,25,3,3,28
+Tue,8:00 PM,Evening,3,22,22,3,3,25
+Tue,8:30 PM,Evening,3,10,9,4,2,13
+Tue,9:00 PM,Evening,4,12,15,1,2,16
+Tue,9:30 PM,Evening,1,11,12,0,2,12
+Tue,10:00 PM,Evening,0,9,9,0,2,9
+Tue,10:30 PM,Evening,0,16,10,6,2,16
+Tue,11:00 PM,Night,6,10,13,3,2,16
+Tue,11:30 PM,Night,3,8,10,1,2,11
+Wed,12:00 AM,Night,1,14,15,0,2,15
+Wed,12:30 AM,Night,0,1,1,0,1,1
+Wed,1:00 AM,Night,0,4,3,1,1,4
+Wed,1:30 AM,Night,1,7,7,1,1,8
+Wed,2:00 AM,Night,1,11,6,6,1,12
+Wed,2:30 AM,Night,6,6,11,1,1,12
+Wed,3:00 AM,Night,1,5,6,0,1,6
+Wed,3:30 AM,Night,0,5,5,0,1,5
+Wed,4:00 AM,Night,0,6,2,4,1,6
+Wed,4:30 AM,Night,4,2,6,0,1,6
+Wed,5:00 AM,Night,0,4,3,1,1,4
+Wed,5:30 AM,Night,1,5,6,0,1,6
+Wed,6:00 AM,Morning rush,0,7,7,0,2,7
+Wed,6:30 AM,Morning rush,0,6,2,4,2,6
+Wed,7:00 AM,Morning rush,4,7,10,1,3,11
+Wed,7:30 AM,Morning rush,1,15,14,2,3,16
+Wed,8:00 AM,Morning rush,2,22,22,2,3,24
+Wed,8:30 AM,Morning rush,2,24,23,3,3,26
+Wed,9:00 AM,Morning,3,17,15,5,3,20
+Wed,9:30 AM,Morning,5,16,19,2,3,21
+Wed,10:00 AM,Morning,2,36,36,2,5,38
+Wed,10:30 AM,Morning,2,38,33,7,5,40
+Wed,11:00 AM,Morning,7,31,34,4,5,38
+Wed,11:30 AM,Lunch rush,4,24,25,3,5,28
+Wed,12:00 PM,Lunch rush,3,53,53,3,7,56
+Wed,12:30 PM,Lunch rush,3,45,42,6,7,48
+Wed,1:00 PM,Lunch rush,6,50,40,16,7,56
+Wed,1:30 PM,Afternoon,16,31,43,4,5,47
+Wed,2:00 PM,Afternoon,4,31,32,3,5,35
+Wed,2:30 PM,Afternoon,3,41,36,8,5,44
+Wed,3:00 PM,Afternoon,8,34,37,5,5,42
+Wed,3:30 PM,Afternoon,5,31,33,3,5,36
+Wed,4:00 PM,Afternoon,3,29,30,2,5,32
+Wed,4:30 PM,Afternoon rush,2,28,25,5,5,30
+Wed,5:00 PM,Afternoon rush,5,40,42,3,6,45
+Wed,5:30 PM,Afternoon rush,3,36,35,4,6,39
+Wed,6:00 PM,Afternoon rush,4,28,30,2,5,32
+Wed,6:30 PM,Evening,2,20,22,0,3,22
+Wed,7:00 PM,Evening,0,16,10,6,3,16
+Wed,7:30 PM,Evening,6,23,27,2,3,29
+Wed,8:00 PM,Evening,2,23,19,6,3,25
+Wed,8:30 PM,Evening,6,9,14,1,2,15
+Wed,9:00 PM,Evening,1,10,11,0,2,11
+Wed,9:30 PM,Evening,0,10,7,3,2,10
+Wed,10:00 PM,Evening,3,12,10,5,2,15
+Wed,10:30 PM,Evening,5,13,16,2,2,18
+Wed,11:00 PM,Night,2,12,10,4,2,14
+Wed,11:30 PM,Night,4,9,8,5,2,13
+Thu,12:00 AM,Night,5,9,12,2,2,14
+Thu,12:30 AM,Night,2,10,6,6,1,12
+Thu,1:00 AM,Night,6,7,7,6,1,13
+Thu,1:30 AM,Night,6,3,7,2,1,9
+Thu,2:00 AM,Night,2,8,8,2,1,10
+Thu,2:30 AM,Night,2,3,5,0,1,5
+Thu,3:00 AM,Night,0,4,4,0,1,4
+Thu,3:30 AM,Night,0,5,4,1,1,5
+Thu,4:00 AM,Night,1,4,4,1,1,5
+Thu,4:30 AM,Night,1,7,7,1,1,8
+Thu,5:00 AM,Night,1,4,5,0,1,5
+Thu,5:30 AM,Night,0,5,5,0,1,5
+Thu,6:00 AM,Morning rush,0,11,8,3,2,11
+Thu,6:30 AM,Morning rush,3,8,8,3,2,11
+Thu,7:00 AM,Morning rush,3,8,10,1,3,11
+Thu,7:30 AM,Morning rush,1,9,10,0,3,10
+Thu,8:00 AM,Morning rush,0,20,18,2,3,20
+Thu,8:30 AM,Morning rush,2,24,19,7,3,26
+Thu,9:00 AM,Morning,7,23,29,1,3,30
+Thu,9:30 AM,Morning,1,21,20,2,3,22
+Thu,10:00 AM,Morning,2,31,27,6,5,33
+Thu,10:30 AM,Morning,6,25,28,3,5,31
+Thu,11:00 AM,Morning,3,27,23,7,5,30
+Thu,11:30 AM,Lunch rush,7,30,31,6,5,37
+Thu,12:00 PM,Lunch rush,6,45,49,2,7,51
+Thu,12:30 PM,Lunch rush,2,56,45,13,7,58
+Thu,1:00 PM,Lunch rush,13,55,54,14,7,68
+Thu,1:30 PM,Afternoon,14,32,41,5,5,46
+Thu,2:00 PM,Afternoon,5,34,37,2,5,39
+Thu,2:30 PM,Afternoon,2,27,26,3,5,29
+Thu,3:00 PM,Afternoon,3,30,29,4,5,33
+Thu,3:30 PM,Afternoon,4,12,14,2,5,16
+Thu,4:00 PM,Afternoon,2,26,26,2,5,28
+Thu,4:30 PM,Afternoon rush,2,28,27,3,5,30
+Thu,5:00 PM,Afternoon rush,3,45,35,13,6,48
+Thu,5:30 PM,Afternoon rush,13,39,46,6,6,52
+Thu,6:00 PM,Afternoon rush,6,23,24,5,5,29
+Thu,6:30 PM,Evening,5,16,15,6,3,21
+Thu,7:00 PM,Evening,6,15,17,4,3,21
+Thu,7:30 PM,Evening,4,22,21,5,3,26
+Thu,8:00 PM,Evening,5,17,16,6,3,22
+Thu,8:30 PM,Evening,6,14,17,3,2,20
+Thu,9:00 PM,Evening,3,12,15,0,2,15
+Thu,9:30 PM,Evening,0,16,15,1,2,16
+Thu,10:00 PM,Evening,1,12,10,3,2,13
+Thu,10:30 PM,Evening,3,7,10,0,2,10
+Thu,11:00 PM,Night,0,13,9,4,2,13
+Thu,11:30 PM,Night,4,8,7,5,2,12
+Fri,12:00 AM,Night,5,8,13,0,2,13
+Fri,12:30 AM,Night,0,4,3,1,1,4
+Fri,1:00 AM,Night,1,2,3,0,1,3
+Fri,1:30 AM,Night,0,4,4,0,1,4
+Fri,2:00 AM,Night,0,11,4,7,1,11
+Fri,2:30 AM,Night,7,10,10,7,1,17
+Fri,3:00 AM,Night,7,8,5,10,1,15
+Fri,3:30 AM,Night,10,5,8,7,1,15
+Fri,4:00 AM,Night,7,7,13,1,1,14
+Fri,4:30 AM,Night,1,5,4,2,1,6
+Fri,5:00 AM,Night,2,7,7,2,1,9
+Fri,5:30 AM,Night,2,6,7,1,1,8
+Fri,6:00 AM,Morning rush,1,9,7,3,2,10
+Fri,6:30 AM,Morning rush,3,16,15,4,2,19
+Fri,7:00 AM,Morning rush,4,16,17,3,3,20
+Fri,7:30 AM,Morning rush,3,15,16,2,3,18
+Fri,8:00 AM,Morning rush,2,16,18,0,3,18
+Fri,8:30 AM,Morning rush,0,16,16,0,3,16
+Fri,9:00 AM,Morning,0,29,21,8,3,29
+Fri,9:30 AM,Morning,8,23,29,2,3,31
+Fri,10:00 AM,Morning,2,30,28,4,5,32
+Fri,10:30 AM,Morning,4,24,26,2,5,28
+Fri,11:00 AM,Morning,2,34,34,2,5,36
+Fri,11:30 AM,Lunch rush,2,33,31,4,5,35
+Fri,12:00 PM,Lunch rush,4,54,42,16,7,58
+Fri,12:30 PM,Lunch rush,16,51,45,22,7,67
+Fri,1:00 PM,Lunch rush,22,50,63,9,7,72
+Fri,1:30 PM,Afternoon,9,28,31,6,5,37
+Fri,2:00 PM,Afternoon,6,28,30,4,5,34
+Fri,2:30 PM,Afternoon,4,42,41,5,7,46
+Fri,3:00 PM,Afternoon,5,50,45,10,7,55
+Fri,3:30 PM,Afternoon,10,74,74,10,9,84
+Fri,4:00 PM,Afternoon,10,50,53,7,9,60
+Fri,4:30 PM,Afternoon rush,7,49,53,3,9,56
+Fri,5:00 PM,Afternoon rush,3,75,70,8,12,78
+Fri,5:30 PM,Afternoon rush,8,87,85,10,12,95
+Fri,6:00 PM,Afternoon rush,10,62,64,8,9,72
+Fri,6:30 PM,Evening,8,43,32,19,6,51
+Fri,7:00 PM,Evening,19,42,44,17,6,61
+Fri,7:30 PM,Evening,17,16,32,1,6,33
+Fri,8:00 PM,Evening,1,30,27,4,5,31
+Fri,8:30 PM,Evening,4,25,27,2,5,29
+Fri,9:00 PM,Evening,2,19,19,2,3,21
+Fri,9:30 PM,Evening,2,20,21,1,3,22
+Fri,10:00 PM,Evening,1,20,16,5,3,21
+Fri,10:30 PM,Evening,5,11,14,2,2,16
+Fri,11:00 PM,Night,2,7,8,1,2,9
+Fri,11:30 PM,Night,1,9,8,2,2,10
+Sat,12:00 AM,Night,2,6,8,0,2,8
+Sat,12:30 AM,Night,0,7,7,0,1,7
+Sat,1:00 AM,Night,0,6,2,4,1,6
+Sat,1:30 AM,Night,4,4,5,3,1,8
+Sat,2:00 AM,Night,3,4,7,0,1,7
+Sat,2:30 AM,Night,0,5,1,4,1,5
+Sat,3:00 AM,Night,4,9,7,6,1,13
+Sat,3:30 AM,Night,6,9,5,10,1,15
+Sat,4:00 AM,Night,10,7,14,3,1,17
+Sat,4:30 AM,Night,3,6,8,1,1,9
+Sat,5:00 AM,Night,1,6,4,3,1,7
+Sat,5:30 AM,Night,3,4,7,0,1,7
+Sat,6:00 AM,Morning rush,0,6,6,0,2,6
+Sat,6:30 AM,Morning rush,0,11,9,2,2,11
+Sat,7:00 AM,Morning rush,2,10,10,2,3,12
+Sat,7:30 AM,Morning rush,2,19,20,1,3,21
+Sat,8:00 AM,Morning rush,1,30,25,6,5,31
+Sat,8:30 AM,Morning rush,6,34,36,4,5,40
+Sat,9:00 AM,Morning,4,43,36,11,7,47
+Sat,9:30 AM,Morning,11,49,45,15,7,60
+Sat,10:00 AM,Morning,15,58,61,12,9,73
+Sat,10:30 AM,Morning,12,53,61,4,9,65
+Sat,11:00 AM,Morning,4,60,53,11,9,64
+Sat,11:30 AM,Lunch rush,11,52,55,8,9,63
+Sat,12:00 PM,Lunch rush,8,68,69,7,9,76
+Sat,12:30 PM,Lunch rush,7,48,50,5,9,55
+Sat,1:00 PM,Lunch rush,5,55,48,12,9,60
+Sat,1:30 PM,Afternoon,12,63,59,16,9,75
+Sat,2:00 PM,Afternoon,16,68,69,15,9,84
+Sat,2:30 PM,Afternoon,15,72,70,17,9,87
+Sat,3:00 PM,Afternoon,17,51,61,7,9,68
+Sat,3:30 PM,Afternoon,7,66,52,21,9,73
+Sat,4:00 PM,Afternoon,21,56,63,14,9,77
+Sat,4:30 PM,Afternoon rush,14,54,60,8,9,68
+Sat,5:00 PM,Afternoon rush,8,62,62,8,9,70
+Sat,5:30 PM,Afternoon rush,8,65,59,14,9,73
+Sat,6:00 PM,Afternoon rush,14,49,55,8,7,63
+Sat,6:30 PM,Evening,8,48,53,3,7,56
+Sat,7:00 PM,Evening,3,44,37,10,7,47
+Sat,7:30 PM,Evening,10,36,42,4,5,46
+Sat,8:00 PM,Evening,4,30,31,3,5,34
+Sat,8:30 PM,Evening,3,32,29,6,5,35
+Sat,9:00 PM,Evening,6,23,26,3,5,29
+Sat,9:30 PM,Evening,3,29,26,6,5,32
+Sat,10:00 PM,Evening,6,8,13,1,3,14
+Sat,10:30 PM,Evening,1,17,17,1,3,18
+Sat,11:00 PM,Night,1,19,19,1,3,20
+Sat,11:30 PM,Night,1,14,13,2,3,15
+Sun,12:00 AM,Night,2,14,14,2,3,16
+Sun,12:30 AM,Night,2,9,8,3,2,11
+Sun,1:00 AM,Night,3,8,10,1,2,11
+Sun,1:30 AM,Night,1,10,11,0,2,11
+Sun,2:00 AM,Night,0,13,8,5,2,13
+Sun,2:30 AM,Night,5,11,15,1,2,16
+Sun,3:00 AM,Night,1,10,10,1,2,11
+Sun,3:30 AM,Night,1,15,11,5,2,16
+Sun,4:00 AM,Night,5,13,16,2,2,18
+Sun,4:30 AM,Night,2,16,10,8,2,18
+Sun,5:00 AM,Night,8,14,13,9,2,22
+Sun,5:30 AM,Night,9,7,15,1,2,16
+Sun,6:00 AM,Morning rush,1,15,14,2,3,16
+Sun,6:30 AM,Morning rush,2,9,11,0,3,11
+Sun,7:00 AM,Morning rush,0,28,22,6,4,28
+Sun,7:30 AM,Morning rush,6,19,21,4,4,25
+Sun,8:00 AM,Morning rush,4,30,28,6,4,34
+Sun,8:30 AM,Morning rush,6,22,20,8,4,28
+Sun,9:00 AM,Morning,8,28,34,2,5,36
+Sun,9:30 AM,Morning,2,41,37,6,5,43
+Sun,10:00 AM,Morning,6,41,41,6,7,47
+Sun,10:30 AM,Morning,6,45,45,6,7,51
+Sun,11:00 AM,Morning,6,48,44,10,7,54
+Sun,11:30 AM,Lunch rush,10,28,32,6,7,38
+Sun,12:00 PM,Lunch rush,6,43,44,5,7,49
+Sun,12:30 PM,Lunch rush,5,45,46,4,7,50
+Sun,1:00 PM,Lunch rush,4,38,39,3,7,42
+Sun,1:30 PM,Afternoon,3,44,39,8,7,47
+Sun,2:00 PM,Afternoon,8,52,48,12,7,60
+Sun,2:30 PM,Afternoon,12,42,42,12,7,54
+Sun,3:00 PM,Afternoon,12,46,43,15,7,58
+Sun,3:30 PM,Afternoon,15,41,53,3,7,56
+Sun,4:00 PM,Afternoon,3,45,40,8,7,48
+Sun,4:30 PM,Afternoon rush,8,45,47,6,7,53
+Sun,5:00 PM,Afternoon rush,6,39,41,4,7,45
+Sun,5:30 PM,Afternoon rush,4,49,48,5,7,53
+Sun,6:00 PM,Afternoon rush,5,32,25,12,5,37
+Sun,6:30 PM,Evening,12,33,41,4,5,45
+Sun,7:00 PM,Evening,4,33,33,4,5,37
+Sun,7:30 PM,Evening,4,15,19,0,3,19
+Sun,8:00 PM,Evening,0,16,14,2,3,16
+Sun,8:30 PM,Evening,2,20,21,1,3,22
+Sun,9:00 PM,Evening,1,26,24,3,3,27
+Sun,9:30 PM,Evening,3,17,18,2,3,20
+Sun,10:00 PM,Evening,2,12,12,2,2,14
+Sun,10:30 PM,Evening,2,7,7,2,2,9
+Sun,11:00 PM,Night,2,17,13,6,2,19
+Sun,11:30 PM,Night,6,9,14,1,2,15
+Mon,12:00 AM,Night,1,15,15,1,2,16
+Mon,12:30 AM,Night,1,3,3,1,1,4
+Mon,1:00 AM,Night,1,3,4,0,1,4
+Mon,1:30 AM,Night,0,4,1,3,1,4
+Mon,2:00 AM,Night,3,3,5,1,1,6
+Mon,2:30 AM,Night,1,5,6,0,1,6
+Mon,3:00 AM,Night,0,5,4,1,1,5
+Mon,3:30 AM,Night,1,7,5,3,1,8
+Mon,4:00 AM,Night,3,8,6,5,1,11
+Mon,4:30 AM,Night,5,4,5,4,1,9
+Mon,5:00 AM,Night,4,10,12,2,1,14
+Mon,5:30 AM,Night,2,6,8,0,1,8
+Mon,6:00 AM,Morning rush,0,5,4,1,2,5
+Mon,6:30 AM,Morning rush,1,7,7,1,2,8
+Mon,7:00 AM,Morning rush,1,16,14,3,3,17
+Mon,7:30 AM,Morning rush,3,18,16,5,3,21
